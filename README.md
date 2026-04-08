@@ -3,7 +3,7 @@
 💻 Final Year IT Engineering Student  
 🚀 Web Developer | Exploring Machine Learning & Agentic AI  
 
-I enjoy building developer tools, web apps, and experimenting with AI systems.
+I enjoy building developer tool, web apps, and experimenting with AI systems.
 
 ---
 
