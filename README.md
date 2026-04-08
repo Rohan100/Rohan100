@@ -15,25 +15,9 @@ I enjoy building developer tools, web apps, and experimenting with AI systems.
 
 ---
 
-## 🚀 Projects
-
-⚓ **Code Context Navigator**  
-VS Code extension that visualizes relationships between functions and files.
-
-🎮 **Multiplayer Battleship Game**  
-Real-time game using React, Node.js and Socket.IO.
-
-🧠 **Web IDE**  
-Browser IDE that compiles code and hosts projects on subdomains.
-
-🗺 **Safe Neighborhood Map**  
-Hackathon project for community safety mapping.
-
----
 
 ## 📚 Currently Learning
-🤖 Machine Learning  
-⚙️ Agentic AI  
+🤖 FullStack Development 
 📊 Data Structures & Algorithms  
 🏗 System Design  
 
@@ -41,5 +25,5 @@ Hackathon project for community safety mapping.
 
 ## 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Rohan100)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
